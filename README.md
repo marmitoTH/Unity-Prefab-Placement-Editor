@@ -35,7 +35,7 @@ Select the game object with PlacementSystem to enter in paint mode. A blue circl
 
 ## Licence:
 
-Do not sell or distribute as if it were your own.
+**Do not sell or distribute as if it were your own.**
 
 
 
