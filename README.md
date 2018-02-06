@@ -1,15 +1,15 @@
 # Unity-Prefab-Placement-Editor
 
-**Install:**
+##Install:
 
 Import everything to your Assets folder, PrefabPlacementEditor must be inside Editor folder.
 Create a empty game object and put the component PlacementSystem script.
 
-**Prefab configuration:**
+##Prefab configuration:
 
 All prefabs that you want to paint need to have a collider, separated Layer and Tag in order to make the tool work properly. For example, set the oject tag to "Tree" and the layer to "PrefabPlacement". You can use the tag to separete trees, rocks, bushes and so on. That's the way I found to avoid ambiguities. Don't forget the colliders!!!
 
-**Usage:**
+##Usage:
 
 Select the game object with PlacementSystem to enter in paint mode. A blue circle will follow you mouse through the ground surface(the ground also need to have a collider).
 
@@ -33,7 +33,7 @@ Select the game object with PlacementSystem to enter in paint mode. A blue circl
 
 **Hide in Hierarchy** is just to avoid hundreds of prefabs showing in your scene hierarchy.
 
-**Licence:**
+##Licence:
 
 Do not sell or distribute as if it were your own.
 
