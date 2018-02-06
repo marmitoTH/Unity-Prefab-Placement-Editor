@@ -27,9 +27,11 @@ Select the game object with PlacementSystem to enter in paint mode. A blue circl
 
 **Aling with normal** let your prefab follow the ground rotation. It's useful if you gonna paint in planet surface.
 
-***yOffset** is useful to avoid misplacing, very rare glitch. 2 is a fine value.
+**yOffset** is useful to avoid misplacing, very rare glitch. 2 is a fine value.
 
 **Randomize size and rotation**, options to avoid bad tiling. Useful when you gonna paint some trees.
+
+**Hide in Hierarchy** just to avoid hundreds of prefabs showing in your scene hierarchy.
 
 
 
