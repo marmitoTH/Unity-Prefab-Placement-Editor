@@ -1,5 +1,7 @@
 # Unity-Prefab-Placement-Editor
 
+![alt text](https://imgur.com/1NWvEeg)
+
 ## Install:
 
 Import everything to your Assets folder, PrefabPlacementEditor must be inside Editor folder.
