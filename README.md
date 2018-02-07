@@ -35,7 +35,7 @@ Select the game object with PlacementSystem to enter in paint mode. A blue circl
 
 **Hide in Hierarchy** is just to avoid hundreds of prefabs showing in your scene hierarchy.
 
-Left mouse button to paint, shift + left mouse button to erase. 
+**Left mouse button to paint, shift + left mouse button to erase.**
 
 ## Licence:
 
