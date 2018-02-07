@@ -19,7 +19,7 @@ Select the game object with PlacementSystem to enter in paint mode. A blue circl
 
 **Layer Mask** is the layer of the surface that you want to fill, no needed to create one, just let as default.
 
-**Prefab tag** is the tag of the objects that you want to erase.
+**Prefab tag** is the tag of the objects that you want to erase(hold left shift).
 
 **Randomize prefab** let you paint multiples objects in certain array range. If it's off, you can choose by array index.
 
@@ -34,6 +34,8 @@ Select the game object with PlacementSystem to enter in paint mode. A blue circl
 **Randomize size and rotation**, options to avoid bad tiling. Useful when you gonna paint some trees.
 
 **Hide in Hierarchy** is just to avoid hundreds of prefabs showing in your scene hierarchy.
+
+Left mouse button to paint, shift + left mouse button to erase. 
 
 ## Licence:
 
