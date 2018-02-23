@@ -43,7 +43,7 @@ Select the game object with PlacementSystem to enter in paint mode. A blue circl
 
 **Randomize size and rotation**, options to avoid bad tiling. Useful when you gonna paint some trees.
 
-**Hide in Hierarchy** is just to avoid hundreds of prefabs showing in your scene hierarchy.
+**Hide in Hierarchy** hide after instantiate. It's not necessary at all, prefabs are automatically child of the surface.
 
 
 
