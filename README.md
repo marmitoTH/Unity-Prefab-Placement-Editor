@@ -13,11 +13,11 @@ Unity Prefab Placement Editor is an extension for Unity 3d that allow you to pai
 ## Install:
 
 Import everything to your Assets folder, PrefabPlacementEditor must be inside Editor folder.
-Create a empty game object and put the component PlacementSystem script.
+Create an empty game object and put the component PlacementSystem script on it.
 
 ## Prefab configuration:
 
-All prefabs that you want to paint need to have separated Layer and Tag in order to make the tool work properly. For example, set the oject tag to "Grass" and the layer to "PrefabPlacement". You can use the tag to separete trees, grass, rocks, bushes and so on. That's the way I found to avoid ambiguities when using the erase option.
+All prefabs that you want to paint need to have separated Tag in order to make the tool work properly. You can use the tag to separete trees, grass, rocks, bushes and so on. That's the way I found to avoid ambiguities when using the erase option.
 
 ## Usage:
 
