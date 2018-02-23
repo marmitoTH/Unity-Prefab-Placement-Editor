@@ -13,7 +13,7 @@ All prefabs that you want to paint need to have separated Layer and Tag in order
 
 ## Usage:
 
-Select the game object with PlacementSystem to enter in paint mode. A blue circle will follow you mouse through the ground surface(the ground also need to have a collider).
+Select the game object with PlacementSystem to enter in paint mode. A blue circle will follow you mouse through the ground surface(the ground need to have a collider).
 
 **Prefab** is a array of game objects that you want to paint, you can paint multiples at once.
 
