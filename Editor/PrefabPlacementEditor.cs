@@ -176,6 +176,7 @@ public class PrefabPlacementEditor : Editor {
                 }
 
                 instanceOf.transform.position = new Vector3(hit.point.x, hit.point.y, hit.point.z);
+                instanceOf.transform.parent = hit.transform;
 
                 if (canAling.boolValue)
                     instanceOf.transform.up = hit.normal;
