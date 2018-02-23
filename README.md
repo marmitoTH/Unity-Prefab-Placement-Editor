@@ -23,7 +23,7 @@ All prefabs that you want to paint need to have separated Tag in order to make t
 
 TL;DR: **Left mouse button to paint, shift + left mouse button to erase.**
 
-Select the game object with PlacementSystem to enter in paint mode. A blue circle will follow you mouse through the ground surface(the ground need to have a collider).
+Select the game object with PlacementSystem to enter in paint mode. A blue circle will follow you mouse through the ground surface(the ground need to have a collider). To paint hold the left mouse button and drag them over the area, to erase, do the same while holding left shift button. The undo and redo shortcuts are default.
 
 **Prefab** is a array of game objects that you want to paint, you can paint multiples at once.
 
