@@ -9,7 +9,7 @@ Create a empty game object and put the component PlacementSystem script.
 
 ## Prefab configuration:
 
-All prefabs that you want to paint need to have a collider, separated Layer and Tag in order to make the tool work properly. For example, set the oject tag to "Tree" and the layer to "PrefabPlacement". You can use the tag to separete trees, rocks, bushes and so on. That's the way I found to avoid ambiguities. Don't forget the colliders!!!
+All prefabs that you want to paint need to have separated Layer and Tag in order to make the tool work properly. For example, set the oject tag to "Grass" and the layer to "PrefabPlacement". You can use the tag to separete trees, grass, rocks, bushes and so on. That's the way I found to avoid ambiguities when using the erase option.
 
 ## Usage:
 
